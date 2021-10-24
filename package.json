@@ -1,0 +1,19 @@
+{
+  "name": "amazonwebscrapper",
+  "version": "1.0.0",
+  "description": "amazon web Scrapper which predicts best value for your product search",
+  "main": "webscrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om Duragkar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "jsdom": "^18.0.0",
+    "minimist": "^1.2.5",
+    "pupeteer": "0.0.1",
+    "puppeteer": "^10.4.0",
+    "xlsx": "^0.17.3"
+  }
+}
